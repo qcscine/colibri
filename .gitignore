@@ -1,0 +1,7 @@
+# build/install folders
+*build*
+*install*
+
+# swap files
+*.swp*
+**/.vscode/**
